@@ -1,2 +1,2 @@
-# codingground
-Main Repository for Coding Ground
+# Validaciones JAVA
+Clase para validaciones simples en java
